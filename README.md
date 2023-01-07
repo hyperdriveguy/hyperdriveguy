@@ -19,4 +19,3 @@
 * Help with improvements to peer-to-peer communication/networks
 * Work with embedded systems in various places
 * Design processors and coprocessors
-* Design G-GPUs
