@@ -9,13 +9,12 @@
 * Avoid debt
 * Change how people think about software and hardware
 * Promote freedom in computing for all people
+* Publish a game (hybrid board/video game)
 * Lobby for right to repair
-* Lobby against copyright law
-* Lobby against software patents
-* Change da world
+* Lobby for IP law reform
 
 ### My Career Goals
 * Pioneer new useful hardware, software, and algorithms
-* Help with improvements to peer-to-peer communication/networks
 * Work with embedded systems in various places
 * Design processors and coprocessors
+* Design consumer electronics
