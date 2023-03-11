@@ -14,6 +14,7 @@
 * Lobby for IP law reform
 
 ### My Career Goals
+* Deliver software that meets requirements for specialized contexts
 * Pioneer new useful hardware, software, and algorithms
 * Work with embedded systems in various places
 * Design processors and coprocessors
