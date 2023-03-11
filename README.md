@@ -3,7 +3,6 @@
 ## Goals
 
 ### My Personal Goals
-* Obtain a Bachelor's of Computer Engineering
 * Be an example of service in my community and church calling
 * Improve communication skills
 * Avoid debt
@@ -14,6 +13,7 @@
 * Lobby for IP law reform
 
 ### My Career Goals
+* Obtain a Bachelor's of Computer Engineering
 * Deliver software that meets requirements for specialized contexts
 * Pioneer new useful hardware, software, and algorithms
 * Work with embedded systems in various places
