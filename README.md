@@ -4,13 +4,12 @@
 
 ### My Personal Goals
 * Be an example of service in my community and church calling
-* Improve communication skills
+* Improve public speaking skills
 * Avoid debt
 * Change how people think about software and hardware
 * Promote freedom in computing for all people
 * Publish a game (hybrid board/video game)
 * Lobby for right to repair
-* Lobby for IP law reform
 
 ### My Career Goals
 * Obtain a Bachelor's of Computer Engineering
