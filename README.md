@@ -13,7 +13,7 @@
 
 ### My Career Goals
 * Obtain a Bachelor's of Computer Engineering
-* Work on several aspects truly "full stack" projects that range from hardware to UI design
+* Work on several aspects of truly "full stack" projects that range from hardware to UI design
 * Deliver software that meets requirements for specialized contexts
 * Pioneer new useful hardware, software, and algorithms
 * Work with embedded systems in various places
