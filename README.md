@@ -1,15 +1,17 @@
 # About Me
 
-## Goals
+## Projects
 
-### My Personal Goals
-* Be an example of service in my community and church calling
-* Improve public speaking skills
-* Avoid debt
-* Change how people think about software and hardware
-* Promote freedom in computing for all people
-* Publish a game (hybrid board/video game)
-* Lobby for right to repair
+### Software
+
+
+### Hardware
+
+
+### Hardware and Software
+
+
+## Goals
 
 ### My Career Goals
 * Obtain a Bachelor's of Computer Engineering
@@ -17,5 +19,14 @@
 * Deliver software that meets requirements for specialized contexts
 * Pioneer new useful hardware, software, and algorithms
 * Work with embedded systems in various places
-* Design processors and coprocessors (VLSI design)
+* Design processors and coprocessors
 * Design consumer electronics
+
+### My Personal Goals
+* Be an example of service
+* Become a strong public speaker
+* Avoid debt
+* Change how people think about software and hardware
+* Promote freedom in computing for all people
+* Publish a game (hybrid board/video game)
+* Lobby for right to repair
