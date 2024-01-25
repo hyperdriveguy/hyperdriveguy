@@ -28,7 +28,8 @@
 
 ### Hardware
 * Bass/treble daughterboard
-    * Laid out PCB using SMD components, including an Opamp IC using a provided schematic of an active filter circuit.
+    * Laid out PCB for use with SMD components, including an Opamp IC using a provided schematic of an active filter circuit.
+    * Soldered the SMD components on the PCB and tested functionality.
 * [Raspberry Pi car stereo](https://www.reddit.com/r/raspberry_pi/comments/be4a8y/car_stereo_made_with_a_raspberry_pi_3b/)
 
 ### Hardware and Software
