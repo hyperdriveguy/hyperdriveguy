@@ -35,7 +35,6 @@
 ### Hardware and Software
 * [8-bit CPU and assembler](https://github.com/hyperdriveguy/custom-assembly-hello-world)
 * [LED strip controller](https://github.com/Numba-Juan/led-controller)
-* [Accelerometer driver](https://github.com/eboard-boys/spatial-lib/tree/driver-rewrite)
 * [Digital dice roller](https://gist.github.com/hyperdriveguy/de37869528070128e659aaaf388c5ca7)
 * [Electric Longboard with Wrist Monitor](https://github.com/eboard-boys)
     * [ESP32 hat PCB](https://github.com/eboard-boys/longmon-hatt)
