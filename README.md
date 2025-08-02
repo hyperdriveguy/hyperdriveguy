@@ -26,8 +26,6 @@
 
 #### Games
 * Tank Tonk  (in progress, private for now)
-  * Remotely managed arcade game built using Godot 4/ARM Linux
-  * TODO: Coin acceptor integration
 * [Monopoly E-Bank](https://github.com/hyperdriveguy/monopoly-bank)
 * [Adventure game](https://gist.github.com/hyperdriveguy/142b5d2fa60a83c43c71d5289d04a039)
 * [Eureka RPG](https://github.com/hyperdriveguy/eureka-rpg)
